@@ -1,9 +1,6 @@
 /*
-  Digital Clock using Franzininho, 74HC595, 7 Segment Display (4 digits) and DS1307 RTC
-  Code by: Uri Shaked
-  Diagram: Anderson Costa
-  Visit https://wokwi.com to learn about the Wokwi Simulator
-  Visit https://franzininho.com.br to learn about the Franzininho
+  ESP32 Supermini code for Simon-Says project
+  Coded by: Julius Yang
 */
 
 #define DATA_PIN    2    // Pin connected to DS of 74HC595
